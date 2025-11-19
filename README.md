@@ -1,10 +1,14 @@
 <!-- Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%">
+  <img src="https://github.com/Mst-Sumi-Akter/Mst-Sumi-Akter/blob/main/b3.jpg" alt="Banner" width="100%">
 </p>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=Mst-Sumi-Akter&labe=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> 
 
 <h1 align="center"> 👋 Hi, I'm Sumi Akter</h1>
-<h3 align="center">MERN Stack Web Developer</h3>
+<div align="center"> 
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ad0768&center=true&vCenter=true&random=false&width=435&lines=A+MERN+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+</div>  
+
 
 ---
 
@@ -16,7 +20,7 @@ I enjoy exploring new technologies, creating meaningful projects, and improving 
 
 ## 🔥 Current Activities
 - 🌱 I’m currently exploring **Next.js**
-- 💼 I’m working on a **Tourism Website**
+- 💼 I’m working on a **product delivery Website**
 - 💡 Learning and practicing **clean and optimized code**
 - 📘 Improving my **React & Backend** development skills
 
@@ -30,8 +34,8 @@ I enjoy exploring new technologies, creating meaningful projects, and improving 
 ---
 
 ## 🌐 Connect With Me
-📍 **Location:** Your Location Here  
-📧 **Email:** your.email@example.com  
+📍 **Location:** Rangpur, Bangladesh  
+📧 **Email:** sumiwdcse@gmail.com
 
 <p align="left">
   <a href="https://www.linkedin.com" target="_blank">
@@ -40,7 +44,7 @@ I enjoy exploring new technologies, creating meaningful projects, and improving 
   <a href="https://github.com/yourusername" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40"/>
   </a>
-  <a href="https://facebook.com" target="_blank">
+  <a href="[https://facebook.com](https://www.facebook.com/sumi.akter.cse/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" width="40"/>
   </a>
 </p>
