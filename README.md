@@ -10,8 +10,6 @@
 </div>  
 
 
----
-
 ## 👩‍💻 About Me
 Hi! I’m a passionate MERN Stack Web Developer who loves building modern, scalable, and user-friendly web applications.  
 I enjoy exploring new technologies, creating meaningful projects, and improving my development skills every day.
@@ -41,12 +39,13 @@ I enjoy exploring new technologies, creating meaningful projects, and improving 
   <a href="https://www.linkedin.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/Mst-Sumi-Akter" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40"/>
   </a>
-  <a href="[https://facebook.com](https://www.facebook.com/sumi.akter.cse/)" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="40"/>
+  <a href="https://www.facebook.com/sumi.akter.cse/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/733/733547.png" width="40"/>
   </a>
+ 
 </p>
 
 ---
