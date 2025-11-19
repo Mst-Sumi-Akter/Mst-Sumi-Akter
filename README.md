@@ -80,31 +80,11 @@ This project focuses on community engagement, real-time food availability, and u
 
 1. Firebase Authentication
 
-Email/Password and Google login system
-
-Password validation with success/error notifications
-
 2. Dynamic Food Management (CRUD)
-
-Add, update, delete, and view foods in real-time
-
-MongoDB used for storing all food and user data
 
 3. Private Routes for Authenticated Users
 
-Secure access to pages like Add Food, Manage My Foods, and My Requests
-
 4. Food Request System
-
-Users can request available foods directly from the Food Details page
 
 5. Dynamic & Responsive UI
 
-Built with Tailwind CSS and React Router
-
-Mobile-friendly, clean, and professional design
-Loading & Error Handling
-
-Spinner while fetching data.
-
-Custom 404 Error Page with animation and Back to Home button.
