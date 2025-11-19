@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/Mst-Sumi-Akter/Mst-Sumi-Akter/blob/main/b3.jpg" alt="Banner" width="100%">
 </p>
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=Mst-Sumi-Akter&labe=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> 
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=Mst-Sumi-Akter&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> 
 
 <h1 align="center"> 👋 Hi, I'm Sumi Akter</h1>
 <div align="center"> 
