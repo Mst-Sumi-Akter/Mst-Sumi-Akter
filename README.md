@@ -69,3 +69,42 @@ I enjoy exploring new technologies, creating meaningful projects, and improving 
 **Live Link:** [https://example.com ](https://shiny-capybara-90abf6.netlify.app/) <br>
 **Server (API):** https://community-food-sharing-server-iota.vercel.app/  <br>
 **Tech Stack:** React • Node.js • Express • MongoDB 
+
+🔹 Project Overview
+
+PlateShare is a full-stack MERN (MongoDB, Express, React, Node) web application that connects communities through food sharing. Users can share surplus food to reduce waste, while others can easily browse and request available items.
+
+This project focuses on community engagement, real-time food availability, and user-friendly interaction, using secure Firebase authentication and a responsive, mobile-friendly UI.
+
+🔹 Features
+
+1. Firebase Authentication
+
+Email/Password and Google login system
+
+Password validation with success/error notifications
+
+2. Dynamic Food Management (CRUD)
+
+Add, update, delete, and view foods in real-time
+
+MongoDB used for storing all food and user data
+
+3. Private Routes for Authenticated Users
+
+Secure access to pages like Add Food, Manage My Foods, and My Requests
+
+4. Food Request System
+
+Users can request available foods directly from the Food Details page
+
+5. Dynamic & Responsive UI
+
+Built with Tailwind CSS and React Router
+
+Mobile-friendly, clean, and professional design
+Loading & Error Handling
+
+Spinner while fetching data.
+
+Custom 404 Error Page with animation and Back to Home button.
