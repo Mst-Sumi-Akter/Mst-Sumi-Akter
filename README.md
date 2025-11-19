@@ -49,15 +49,7 @@ I enjoy exploring new technologies, creating meaningful projects, and improving 
 </p>
 
 ---
-
-## 📌 Pinned Repositories
-
-### 🔹 Project 1 — food-sharing-project 
-**Overview:** A web application to manage wasted food.  
-**Live Link:** [https://example.com ](https://shiny-capybara-90abf6.netlify.app/) <br>
-**Server (API):** https://community-food-sharing-server-iota.vercel.app/  <br>
-**Tech Stack:** React • Node.js • Express • MongoDB  
-
+ 
 
 ## 📊 GitHub Stats
 
@@ -67,3 +59,13 @@ I enjoy exploring new technologies, creating meaningful projects, and improving 
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mst-Sumi-Akter&layout=compact&theme=react" />
 </p>
 
+------
+
+
+## 📌 Pinned Repositories
+
+### 🔹 Project 1 — food-sharing-project 
+**Overview:** A web application to manage wasted food.  
+**Live Link:** [https://example.com ](https://shiny-capybara-90abf6.netlify.app/) <br>
+**Server (API):** https://community-food-sharing-server-iota.vercel.app/  <br>
+**Tech Stack:** React • Node.js • Express • MongoDB 
