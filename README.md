@@ -98,12 +98,12 @@ Live demo: https://storied-starlight-d69afa.netlify.app/
 GameHub is an online library to discover and support indie game developers. Browse, read details, and install games.
 
 🔹 Key Features
- Responsive single-page React app
- Firebase Authentication (email/password + Google)
- Protected Game Details & Profile pages
- Newsletter subscription form
- Framer Motion animations
- Environment variables for Firebase config
- Deployed on Netlify (or Firebase Hosting)
+ 1.Responsive single-page React app <br>
+ 2.Firebase Authentication (email/password + Google)  <br>
+ 3.Protected Game Details & Profile pages  <br>
+ 4.Newsletter subscription form  <br>
+ 5.Framer Motion animations  <br>
+ 6.Environment variables for Firebase config  <br>
+ 7.Deployed on Netlify (or Firebase Hosting)
 
 
