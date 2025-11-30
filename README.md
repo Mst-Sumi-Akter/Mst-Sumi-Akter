@@ -25,9 +25,22 @@ I enjoy exploring new technologies, creating meaningful projects, and improving 
 ---
 
 ## ⚡ Skills  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vite" />
+### 🌐 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,bootstrap,jquery" />
 </p>
+
+
+### ⚙️ Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🛠 Tools & Others  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,figma,stripe" />
+</p>
+
 
 ---
 
