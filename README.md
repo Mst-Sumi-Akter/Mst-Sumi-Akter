@@ -49,7 +49,7 @@ I enjoy exploring new technologies, creating meaningful projects, and improving 
 📧 **Email:** sumiwdcse@gmail.com
 
 <p align="left">
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/sumi-akter-cse/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
   <a href="https://github.com/Mst-Sumi-Akter" target="_blank">
