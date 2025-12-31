@@ -124,22 +124,22 @@ GameHub is an online library to discover and support indie game developers. Brow
 
 🔗 Live Site URL: [https://fantastic-cucurucho-3fa98b.netlify.app]
 
-✨ Features
-1.User Roles: Admin, Contest Creator, and Normal User with dedicated dashboards.
-2.Contest Discovery: Browse contests by category, popularity, and search queries.
-3.Secure Authentication: JWT-based login and registration with Google Sign-in support.
-4.Payment Integration: (Mock/Simulated) flow for contest registration.
-5.Dashboard Management:
- i.Creators: Add/Edit contests, view submissions, declare winners.
- ii.Admins: Manage users, approve/reject contests.
- iii.Users: Track participation and winning history.
- iv.Leaderboard: Dynamic ranking of users based on contest wins.
-6.Responsive Design: Fully optimized for mobile, tablet, and desktop.
-7.Dark/Light Theme: Persistent theme toggle using local storage.
-8.Notifications: Toast notifications for all major actions.
-9.Data Visualization: Win percentage charts for user profiles.
-🛠️ Tech Stack
-1.Frontend: React, Vite, Tailwind CSS, Framer Motion, React Router, React Hook Form, TanStack Query (optional), Axios.
-2.Backend: Node.js, Express.js.
-3.Database: MongoDB.
-4.Authentication: Firebase (Social), JWT (Session).
+✨ Features  <br>
+1.User Roles: Admin, Contest Creator, and Normal User with dedicated dashboards.  <br>
+2.Contest Discovery: Browse contests by category, popularity, and search queries. <br>
+3.Secure Authentication: JWT-based login and registration with Google Sign-in support. <br>
+4.Payment Integration: (Mock/Simulated) flow for contest registration. <br>
+5.Dashboard Management: <br>
+ i.Creators: Add/Edit contests, view submissions, declare winners. <br>
+ ii.Admins: Manage users, approve/reject contests. <br>
+ iii.Users: Track participation and winning history. <br>
+ iv.Leaderboard: Dynamic ranking of users based on contest wins. <br>
+6.Responsive Design: Fully optimized for mobile, tablet, and desktop. <br>
+7.Dark/Light Theme: Persistent theme toggle using local storage. <br>
+8.Notifications: Toast notifications for all major actions. <br>
+9.Data Visualization: Win percentage charts for user profiles. <br>
+🛠️ Tech Stack <br>
+1.Frontend: React, Vite, Tailwind CSS, Framer Motion, React Router, React Hook Form, TanStack Query (optional), Axios. <br>
+2.Backend: Node.js, Express.js. <br>
+3.Database: MongoDB. <br>
+4.Authentication: Firebase (Social), JWT (Session). <br>
