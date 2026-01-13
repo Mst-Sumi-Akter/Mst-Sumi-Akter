@@ -122,7 +122,7 @@ GameHub is an online library to discover and support indie game developers. Brow
 
 ### 🔹 Project 3- ContestHub 
 
-🔗 Live Site URL: [https://fantastic-cucurucho-3fa98b.netlify.app]
+🔗 Live Site URL: [https://contest-hub-client-gamma.vercel.app]
 
 ✨ Features  <br>
 1.User Roles: Admin, Contest Creator, and Normal User with dedicated dashboards.  <br>
