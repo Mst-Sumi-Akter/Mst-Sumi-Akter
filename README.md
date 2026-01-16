@@ -124,7 +124,7 @@ GameHub is an online library to discover and support indie game developers. Brow
 
 🔗 Live Site URL: [https://contest-hub-client-gamma.vercel.app]
 
-✨ Features  <br>
+🔹 Features  <br>
 1.User Roles: Admin, Contest Creator, and Normal User with dedicated dashboards.  <br>
 2.Contest Discovery: Browse contests by category, popularity, and search queries. <br>
 3.Secure Authentication: JWT-based login and registration with Google Sign-in support. <br>
