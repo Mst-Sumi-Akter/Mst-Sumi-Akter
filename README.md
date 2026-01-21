@@ -89,7 +89,7 @@ PlateShare is a full-stack MERN (MongoDB, Express, React, Node) web application 
 
 This project focuses on community engagement, real-time food availability, and user-friendly interaction, using secure Firebase authentication and a responsive, mobile-friendly UI.
 
-🔹 Features
+🔹 Features <br>
 
 1. Firebase Authentication
 
