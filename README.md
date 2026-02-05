@@ -142,4 +142,4 @@ GameHub is an online library to discover and support indie game developers. Brow
 1.Frontend: React, Vite, Tailwind CSS, Framer Motion, React Router, React Hook Form, TanStack Query (optional), Axios. <br>
 2.Backend: Node.js, Express.js. <br>
 3.Database: MongoDB. <br>
-4.Authentication: Firebase (Social), JWT (Session). <br>
+4.Authentication: Firebase, JWT (Session). <br>
