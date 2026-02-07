@@ -116,7 +116,7 @@ GameHub is an online library to discover and support indie game developers. Brow
  4.Newsletter subscription form  <br>
  5.Framer Motion animations  <br>
  6.Environment variables for Firebase config  <br>
- 7.Deployed on Netlify (or Firebase Hosting)
+ 7.Deployed on Netlify
 
 -----
 
