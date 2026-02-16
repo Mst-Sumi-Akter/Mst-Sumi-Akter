@@ -107,7 +107,7 @@ This project focuses on community engagement, real-time food availability, and u
 
 Live demo: https://gamehub-nine-indol.vercel.app/
 
-🔹 Purpose
+🔹Project Overview
 GameHub is an online library to discover and support indie game developers. Browse, read details, and install games.
 
 🔹 Key Features
