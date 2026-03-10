@@ -149,4 +149,4 @@ GameHub is an online library to discover and support indie game developers. Brow
 3.Database: MongoDB. <br>
 4.Authentication: Firebase, JWT.
 
--------
+---
