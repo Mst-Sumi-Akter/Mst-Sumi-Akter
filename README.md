@@ -121,7 +121,7 @@ GameHub is an online library to discover and support indie game developers. Brow
 
  Tech Stack: React • Node.js • Express • MongoDB
 
------
+---
 
 ### 🔹 Project 3- ContestHub - A Smart Contest System
 
