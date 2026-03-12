@@ -72,7 +72,7 @@ I enjoy exploring new technologies, creating meaningful projects, and improving 
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mst-Sumi-Akter&layout=compact&theme=react" />
 </p>
 
-------
+---
 
 
 ## 📌 Pinned Repositories
