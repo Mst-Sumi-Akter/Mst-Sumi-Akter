@@ -101,7 +101,7 @@ This project focuses on community engagement, real-time food availability, and u
 
 5. Dynamic & Responsive UI
 
------
+---
 
 ### 🔹 Project 2- GameHub - A Game Library
 
