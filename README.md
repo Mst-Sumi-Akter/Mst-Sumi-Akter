@@ -28,7 +28,7 @@ I enjoy exploring new technologies, creating meaningful projects, and improving 
 ## ⚡ Skills  
 ### 🌐 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,bootstrap, jQuery" />
 </p>
 
 
