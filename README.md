@@ -28,7 +28,7 @@ I enjoy exploring new technologies, creating meaningful projects, and improving 
 ## ⚡ Skills  
 ### 🌐 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,bootstrap, jQuery" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,bootstrap,jQuery" />
 </p>
 
 
@@ -56,7 +56,7 @@ I enjoy exploring new technologies, creating meaningful projects, and improving 
   <a href="https://github.com/Mst-Sumi-Akter" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40"/>
   </a>
-  <a href="https://www.facebook.com/sumi.akter.cse/" target="_blank">
+ <a href="https://www.facebook.com/sumi.akter.cse/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733547.png" width="40"/>
   </a>
  
