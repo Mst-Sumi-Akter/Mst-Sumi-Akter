@@ -9,7 +9,7 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ad0768&center=true&vCenter=true&random=false&width=435&lines=A+MERN+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>  
 
----
+-----
 
 ## 👩‍💻 About Me
 Hi! I’m a passionate MERN Stack Web Developer who loves building modern, scalable, and user-friendly web applications.  
