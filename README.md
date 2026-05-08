@@ -137,7 +137,7 @@ GameHub is an online library to discover and support indie game developers. Brow
 4.Payment Integration: (Mock/Simulated) flow for contest registration. <br>
 5.Dashboard Management: <br>
  i.Creators: Add/Edit contests, view submissions, declare winners. <br>
- ii.Admins: Manage users, approve/reject contests. <br>
+ ii.Admins: Manage users, approve and reject contests. <br>
  iii.Users: Track participation and winning history. <br>
  iv.Leaderboard: Dynamic ranking of users based on contest wins. <br>
 6.Responsive Design: Fully optimized for mobile, tablet, and desktop. <br>
