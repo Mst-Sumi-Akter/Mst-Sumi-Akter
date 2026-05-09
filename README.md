@@ -128,7 +128,7 @@ GameHub is an online library to discover and support indie game developers. Brow
 
 🔗 Live Site URL: [https://contest-hub-client-gamma.vercel.app]
 
-**Tech Stack:** React • Node.js • Express • MongoDB 
+**Tech Stack:** • React • Node.js • Express • MongoDB 
 
 🔹 Features  <br>
 1.User Roles: Admin, Contest Creator, and Normal User with dedicated dashboards.  <br>
