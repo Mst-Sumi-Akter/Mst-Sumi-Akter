@@ -1,6 +1,6 @@
 <!--- Banner --->
 <p align="center">
-  <img src="https://github.com/Mst-Sumi-Akter/Mst-Sumi-Akter/blob/main/b3.jpg" alt="Banner" width="100%">
+  <img src="https://github.com/Mst-Sumi-Akter/Mst-Sumi-Akter/blob/main/b2.jpg" alt="Banner" width="100%">
 </p>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=Mst-Sumi-Akter&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> 
 
