@@ -9,13 +9,13 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ad0768&center=true&vCenter=true&random=false&width=435&lines=A+MERN+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>  
 
------
+------
 
 ## 👩‍💻 About Me
 Hi! I’m a passionate MERN Stack Web Developer who loves building modern, scalable, and user-friendly web applications.  
 I enjoy exploring new technologies, creating meaningful projects, and improving my development skills every day.
 
----
+------
 
 ## 🔥 Current Activities
 - 🌱 I’m currently exploring **Next.js**
@@ -23,7 +23,7 @@ I enjoy exploring new technologies, creating meaningful projects, and improving 
 - 💡 Learning and practicing **clean and optimized code**
 - 📘 Improving my **React & Backend** development skills
 
----
+-----+
 
 ## ⚡ Skills  
 ### 🌐 Frontend  
@@ -43,7 +43,7 @@ I enjoy exploring new technologies, creating meaningful projects, and improving 
 </p>
 
 
----
+------
 
 ## 🌐 Connect With Me
 📍 **Location:** Rangpur, Bangladesh  
@@ -62,7 +62,7 @@ I enjoy exploring new technologies, creating meaningful projects, and improving 
  
 </p>
 
----
+------
  
 
 ## 📊 GitHub Stats
@@ -73,7 +73,7 @@ I enjoy exploring new technologies, creating meaningful projects, and improving 
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mst-Sumi-Akter&layout=compact&theme=react" />
 </p>
 
----
+------
 
 
 ## 📌 Pinned Repositories
@@ -102,7 +102,7 @@ This project focuses on community engagement, real-time food availability, and u
 
 5. Dynamic & Responsive UI
 
----
+------
 
 ### 🔹 Project 2- GameHub - A Game Library
 
@@ -112,17 +112,17 @@ Live demo: https://gamehub-nine-indol.vercel.app/
 GameHub is an online library to discover and support indie game developers. Browse, read details, and install games.
 
 🔹 Key Features
- 1.Responsive single-page React app <br>
- 2.Firebase Authentication (email/password + Google)  <br>
+ 1. Responsive single-page React app <br>
+ 2. Firebase Authentication (email/password + Google)  <br>
  3.Protected Game Details & Profile pages  <br>
- 4.Newsletter subscription form  <br>
- 5.Framer Motion animations  <br>
- 6.Environment variables for Firebase config  <br>
- 7.Deployed on Netlify
+ 4. Newsletter subscription form  <br>
+ 5. Framer Motion animations  <br>
+ 6. Environment variables for Firebase config  <br>
+ 7. Deployed on Netlify
 
  Tech Stack: React • Node.js • Express • MongoDB
 
----
+------
 
 ### 🔹 Project 3- ContestHub - A Smart Contest System
 
@@ -131,11 +131,11 @@ GameHub is an online library to discover and support indie game developers. Brow
 **Tech Stack:** • React • Node.js • Express • MongoDB 
 
 🔹 Features  <br>
-1.User Roles: Admin, Contest Creator, and Normal User with dedicated dashboards.  <br>
-2.Contest Discovery: Browse contests by category, popularity, and search queries. <br>
-3.Secure Authentication: JWT-based login and registration with Google Sign-in support. <br>
-4.Payment Integration: (Mock/Simulated) flow for contest registration. <br>
-5.Dashboard Management: <br>
+1. User Roles: Admin, Contest Creator, and Normal User with dedicated dashboards.  <br>
+2 . Contest Discovery: Browse contests by category, popularity, and search queries. <br>
+3 . Secure Authentication: JWT-based login and registration with Google Sign-in support. <br>
+4 . Payment Integration: (Mock/Simulated) flow for contest registration. <br>
+5 .Dashboard Management: <br>
  i.Creators: Add/Edit contests, view submissions, declare winners. <br>
  ii.Admins: Manage users, approve and reject contests. <br>
  iii.Users: Track participation and winning history. <br>
