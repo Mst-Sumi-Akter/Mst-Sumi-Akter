@@ -23,7 +23,7 @@ I enjoy exploring new technologies, creating meaningful projects, and improving 
 - 💡 Learning and practicing **clean and optimized code**
 - 📘 Improving my **React & Backend** development skills
 
------+
+------
 
 ## ⚡ Skills  
 ### 🌐 Frontend  
