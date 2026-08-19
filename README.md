@@ -120,7 +120,7 @@ GameHub is an online library to discover and support indie game developers. Brow
  6. Environment variables for Firebase config  <br>
  7. Deployed on Netlify
 
- Tech Stack: React • Node.js • Express • MongoDB
+ Tech Stack: • HTML • CSS  • React • Node.js • Express • MongoDB 
 
 ------
 
